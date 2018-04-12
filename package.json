@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.2",
+    "eslint": "^4.19.1"
+  },
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "handlebars": "^4.0.11"
+  }
+}
