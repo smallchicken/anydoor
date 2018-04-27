@@ -1,4 +1,8 @@
 {
+  "main": 'src/app.js',
+  "bin":{
+    "anydoor":"bin/anydoor"
+  },
   "scripts": {
     "lint": "eslint ."
   },
@@ -8,6 +12,7 @@
   },
   "dependencies": {
     "chalk": "^2.3.2",
-    "handlebars": "^4.0.11"
+    "handlebars": "^4.0.11",
+    "yargs": "^11.0.0"
   }
 }
